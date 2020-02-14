@@ -1,0 +1,9 @@
+{
+  "name": "portfolio",
+  "version": "0.2.0",
+  "description": "Portfolio website",
+  "main": "index.js",
+  "repository": "https://github.com/fleflis/portfolio.git",
+  "author": "Christian Sanches | Fleflis <christian@endless-point.org>",
+  "license": "Apache 2.0"
+}
