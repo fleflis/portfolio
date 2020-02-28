@@ -14,6 +14,11 @@ export default function Index() {
       <Terminal>
         <Command>
           <Command.Delay ms={350} />
+          <span className="command">pm2</span> <span className="complement">start</span> fleflis-portfolio
+          <br/>
+          <br/>
+          <br/>
+          <Command.Delay ms={1500} />
           Bem vindo ao portfolio do <b>Christian Sanches</b>.
         </Command>
       </Terminal>

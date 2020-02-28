@@ -68,4 +68,14 @@ export const Command = styled(Typing)`
     content: 'fleflis@endless-point01 $ ';
     color: #dedede;
   }
+
+  span {
+    font-weight: bold;
+    &.command {
+      color: #007700
+    }
+    &.complement {
+      color: #cece00;
+    }
+  }
 `
