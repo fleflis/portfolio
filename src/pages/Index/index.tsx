@@ -1,5 +1,4 @@
 import React from 'react';
-import Typing from 'react-typing-animation';
 
 import { TerminalWindow, Menu, Fechar, Minimizar, Maximizar, Terminal, Command } from './styles';
 

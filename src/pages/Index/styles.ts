@@ -1,4 +1,4 @@
-import styled, {keyframes} from 'styled-components';
+import styled from 'styled-components';
 import Typing from 'react-typing-animation';
 
 export const TerminalWindow = styled.div`
@@ -14,11 +14,6 @@ export const TerminalWindow = styled.div`
   max-height: 90%;
 
   box-shadow: 4px 5px 5px 0px rgba(0,0,0,0.5);
-`;
-
-const typing = keyframes`
-  from { width: 0 }
-  to { width: 100% }
 `;
 
 export const Menu = styled.div`
