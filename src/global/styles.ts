@@ -19,4 +19,8 @@ export default createGlobalStyle`
     height: 100vh;
     display: flex;
   }
+
+  .cursor-white {
+    color: white !important;
+  }
 `;
