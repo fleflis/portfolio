@@ -36,8 +36,8 @@ export default function Index() {
             <p>Bem vindo ao site de portfolio do <b>Christian Sanches (Fleflis)</b>.</p>
             <p>O que gostaria de acessar?</p>
             <ContainerLinks>
-              <ExternalLink href="https://linkedin.com/in/chrisgsanchesl"><span>&gt; </span>LinkedIn</ExternalLink>
-              <ExternalLink href="https://github.com/fleflis"><span>&gt; </span>GitHub</ExternalLink>
+              <ExternalLink id="link-linkedin" href="https://linkedin.com/in/chrisgsanchesl"><span>&gt; </span>LinkedIn</ExternalLink>
+              <ExternalLink id="link-github" href="https://github.com/fleflis"><span>&gt; </span>GitHub</ExternalLink>
               {/* <ExternalLink href="https://linkedin.com/in/chrisg.sanchesl"><span>&gt; </span>LinkedIn</ExternalLink>
               <ExternalLink href="https://linkedin.com/in/chrisg.sanchesl"><span>&gt; </span>LinkedIn</ExternalLink> */}
             </ContainerLinks>
